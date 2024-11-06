@@ -32,5 +32,5 @@ ql repo https://ghproxy.com/https://github.com/tossiphone/only_for_happly.git ""
 📢群组 https://t.me/TossQL
 🎈频道 https://t.me/TossQLChannel
 
+![IMG_7154](https://github.com/user-attachments/assets/a91a4170-52d8-40c2-9523-dc0507fa640b)
 
-![Uploading IMG_7154.PNG…]()
