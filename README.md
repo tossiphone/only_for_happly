@@ -15,11 +15,11 @@
 
 国外机子
 ```
-ql repo https://github.com/wd210010/only_for_happly.git "" "backup" "" ""
+ql repo https://github.com/tossiphone/only_for_happly.git "" "backup" "" ""
 ```
 国内机子
 ```
-ql repo https://ghproxy.com/https://github.com/wd210010/only_for_happly.git "" "backup" "" ""
+ql repo https://ghproxy.com/https://github.com/tossiphone/only_for_happly.git "" "backup" "" ""
 ```
 - [x] 脚本排错
 
@@ -29,9 +29,10 @@ ql repo https://ghproxy.com/https://github.com/wd210010/only_for_happly.git "" "
 不懂代码的别改脚本 拉库后再青龙的配置文件config.sh里面设置变量export ****=**** 后直接运行脚本就行 一般变量是啥脚本里面都有标注
 推送一般我都只加了pushplus（个人感觉最好用） 需要别的推送会改脚本的自己改 反正我不想加
 ```
-📢群组 @TossQL
-🎈频道 @TossQLChannel
+📢群组 https://t.me/TossQL
+🎈频道 https://t.me/TossQLChannel
 
+https://www.pnglog.com/RWespJ.png
 
 
 
