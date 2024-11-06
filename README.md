@@ -29,6 +29,8 @@ ql repo https://ghproxy.com/https://github.com/wd210010/only_for_happly.git "" "
 不懂代码的别改脚本 拉库后再青龙的配置文件config.sh里面设置变量export ****=**** 后直接运行脚本就行 一般变量是啥脚本里面都有标注
 推送一般我都只加了pushplus（个人感觉最好用） 需要别的推送会改脚本的自己改 反正我不想加
 ```
+📢群组 @TossQL
+🎈频道 @TossQLChannel
 
 
 
